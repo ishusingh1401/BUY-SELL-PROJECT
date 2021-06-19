@@ -1,10 +1,5 @@
 # BUY-SELL-PROJECT
-Create a platform where user can buy or sell a productitem/items
-1) GROUP NO. 20
-  Team Members:- NAMES                   EMAIL ID:                     UNIVERSITY ROLL NO:-
-  	      1)ISHU SINGH		ishusingh058@gmail.com	       1705610050	
-  	      2)HARSH GUPTA 		harshgupta6660@gmail.com       1705610044
-  	      3)HARSHIT SAXENA		harshitsaxena278@gmail.com     1705610048
+1)Create a platform where user can buy or sell a productitem/items
 
 2)TECHNOLOGIES USED:-
 		 a) PLATFORM: SPYDER(ANACONDA 3)
